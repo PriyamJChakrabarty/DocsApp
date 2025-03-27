@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "926968766088",
+    "project_id": "docsapp-2bd62",
+    "storage_bucket": "docsapp-2bd62.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926968766088:android:b3a83ee704766d4091893d",
+        "android_client_info": {
+          "package_name": "com.rankquine.docsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPQTyNoDB79i26m0VbTJgGn-33gSOjMs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
